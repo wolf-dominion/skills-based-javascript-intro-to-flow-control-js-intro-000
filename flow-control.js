@@ -29,7 +29,7 @@ return x ? 'You are a teenager' : 'You are not a teenager';
 }
 
 function switchAge(x) {
-switchAge(x){
+switch(x){
   case 12: 
     console.log ("You are a teenager");
     break;
