@@ -34,6 +34,16 @@ switch(x){
   case 12: 
     console.log ("You are a teenager");
     break;
+  case 13: 
+    console.log ("You are a teenager");
+    break;
+  case 14: 
+    console.log ("You are a teenager");
+    break;
+  case 15: 
+    console.log ("You are a teenager");
+    break;
+    
   default: 
     console.log ("You have an age");
 }
